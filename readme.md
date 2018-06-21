@@ -1,2 +1,3 @@
 #test readme
-test bez hasha
+test bez hasha, czy dziala
+## TEST podwojnego hasha
